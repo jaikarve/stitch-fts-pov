@@ -20,6 +20,6 @@ exports = function(payload) {
         
       }},
       {$limit:
-        10
+        20
       }]).toArray();
 };
