@@ -1,7 +1,4 @@
 {
     "config_version": 20180301,
-    "name": "FTS_PoV",
-    "location": "US-OR",
-    "deployment_model": "GLOBAL",
     "security": {}
 }
