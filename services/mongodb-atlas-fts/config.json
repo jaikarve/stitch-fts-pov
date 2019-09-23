@@ -1,7 +1,9 @@
 {
+    "id": "5d8509556be3c0b68a2d2167",
     "name": "mongodb-atlas-fts",
     "type": "mongodb-atlas",
     "config": {
+        "clusterName": "FullTextSearch",
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
