@@ -3,7 +3,7 @@
     "name": "mongodb-atlas-fts",
     "type": "mongodb-atlas",
     "config": {
-        "clusterName": "FullTextSearch",
+        "clusterName":"FullTextSearch",
         "readPreference": "primary",
         "wireProtocolEnabled": false
     },
